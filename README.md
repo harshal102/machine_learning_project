@@ -9,6 +9,9 @@
 to addd filr to git
 'git add <file name>'
 
+TO check the comit
+'git log'
+
 To create version/commit all chnages by git
 'git commit -m "message"'
 
@@ -21,7 +24,7 @@ To chek remote url
 #To setup CI/CD piplene in heroku we need 3 information
 
 1.HEROKU_EMAIL='harshal10200@gmail.com'
-2.HEROKU_API_KEY='8e7c56ff-8894-41a8-8cd6-87a3d8ca664c'
+2.HEROKU_API_KEY=''
 3.HEROKU_API_NAME=
 
 BUILD DOCKER IMGE
