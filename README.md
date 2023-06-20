@@ -1,7 +1,11 @@
 # machine_learning_project
 
 'conda --version'
-' conda create -p venv python==3.7'
+
+To create the envirement 
+' conda create -p venv python==3.7' 
+
+To activate the envirement
 'conda activate venv/'
 
 'pip install -r requirements.txt'
@@ -44,3 +48,4 @@ TO cheak running container in docker
 To stop the container
 'docker stop<container_id>'
 
+ 
