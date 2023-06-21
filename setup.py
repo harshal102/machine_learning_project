@@ -21,6 +21,6 @@ name=PROJECT_NAME,
 version=VERSION,
 author=AUTHOR,
 description=DESRCIPTION,
-packages=find_packages(), 
+packages=find_packages(), #used for installing the housing __init__ files
 install_requires=get_requirements_list()
 )
