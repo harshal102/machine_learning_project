@@ -22,5 +22,5 @@ version=VERSION,
 author=AUTHOR,
 description=DESRCIPTION,
 packages=find_packages(), #used for installing the housing __init__ files
-install_requires=get_requirements_list()
+install_requires=get_requirements_list() #for get all requrement.txt file
 )

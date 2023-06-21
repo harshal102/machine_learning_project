@@ -29,7 +29,7 @@ To chek remote url
 
 1.HEROKU_EMAIL='harshal10200@gmail.com'
 2.HEROKU_API_KEY=''
-3.HEROKU_API_NAME=
+3.HEROKU_API_ NAME=
 
 BUILD DOCKER IMGE
 
