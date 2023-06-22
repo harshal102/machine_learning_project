@@ -47,5 +47,5 @@ TO cheak running container in docker
 
 To stop the container
 'docker stop<container_id>'
-
+python -m flask run
  
