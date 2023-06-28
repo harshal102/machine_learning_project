@@ -10,6 +10,8 @@ To activate the envirement
 
 'pip install -r requirements.txt'
 
+'python -m flask run'
+
 to addd filr to git
 'git add <file name>'
 
@@ -47,5 +49,7 @@ TO cheak running container in docker
 
 To stop the container
 'docker stop<container_id>'
+
+
 python -m flask run
  
