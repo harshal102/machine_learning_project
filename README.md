@@ -10,7 +10,8 @@ To activate the envirement
 
 'pip install -r requirements.txt'
 
-'python -m flask run'
+'
+python -m flask run'
 
 to addd filr to git
 'git add <file name>'
@@ -51,5 +52,6 @@ To stop the container
 'docker stop<container_id>'
 
 
-python -m flask run
+install ipykernel
+'pip install ipykernel'
  
